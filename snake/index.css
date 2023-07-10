@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    background: linear-gradient(to right,rgb(45, 188, 207),rgba(245, 245, 240, 0.822));
+}
+h2,#score{
+    color: antiquewhite;
+    font-size: 1.5em;
+    font-style: italic;
+    margin: 25px 0px;
+}
+canvas{
+    border: 3px solid rgb(20, 20, 24);
+}
